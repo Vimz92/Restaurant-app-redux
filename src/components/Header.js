@@ -52,9 +52,9 @@ useEffect(() => {
           </NavLink>
           <Nav className="me-auto">
             <NavLink to="/" className="text-decoration-none text-light">
-              Home
+              Vimal's Food Menu
             </NavLink>
-     <h1> Vimal's Food Menu <h1>
+      
           </Nav>
 
           <Badge
