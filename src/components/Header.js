@@ -54,6 +54,7 @@ useEffect(() => {
             <NavLink to="/" className="text-decoration-none text-light">
               Home
             </NavLink>
+     <h1> Vimal's Food Menu <h1>
           </Nav>
 
           <Badge
